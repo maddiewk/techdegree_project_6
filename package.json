@@ -1,0 +1,24 @@
+{
+  "name": "content_scraper",
+  "version": "0.0.1",
+  "description": "A content scraper for an ecommerce site",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maddiewk/techdegree_project_6.git"
+  },
+  "keywords": [
+    "content",
+    "scraper",
+    "ecommerce"
+  ],
+  "author": "Madeline Watson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maddiewk/techdegree_project_6/issues"
+  },
+  "homepage": "https://github.com/maddiewk/techdegree_project_6#readme"
+}
